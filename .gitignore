@@ -1,0 +1,8 @@
+.vscode/
+
+# Local Compiled files
+bin/
+artifacts/
+wKIN.sol
+PumpZapIn.sol
+FTMBondDepository.sol
